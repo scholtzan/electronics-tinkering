@@ -1,0 +1,10 @@
+raspberry-pi-rust/*/target/*
+*.o
+*.hex
+*.pbxproj
+raspberry-pi-rust/*/.idea/*
+*.iml
+*.lock
+*.bin
+*.elf
+*.out
